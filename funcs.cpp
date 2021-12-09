@@ -1,7 +1,7 @@
 //funcs.cpp
 #include "stdafx.h"
 #include "funcs.h"
-
+// Описание фунций
 double MySum(double a, double b)
 {
 return a + b;

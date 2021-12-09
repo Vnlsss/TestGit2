@@ -1,7 +1,7 @@
 //файл program.cpp
 #include "stdafx.h"
 #include <iostream>
-#include "funcs.h"
+#include "funcs.h" // Подключение файла заголовка
 using namespace std;
 int main()
 {
